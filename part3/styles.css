@@ -1,0 +1,35 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: blue;
+        }
+
+        .box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .box-1 {
+            background-color: lightblue;
+        }
+
+        .box-2 {
+            background-color: lightgreen;
+        }
+
+        .box-3 {
+            background-color: lightpink;
+        }
+
+        .box-4 {
+            background-color: lightyellow;
+        }
+
+        .image-container {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
